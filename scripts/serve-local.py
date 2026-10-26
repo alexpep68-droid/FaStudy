@@ -6,6 +6,9 @@ from urllib.parse import urlparse
 
 def load_library(folder):
     records=json.loads((folder/'respaldo-verificado.json').read_text(encoding='utf-8-sig'))
+    manifest=json.loads((Path(__file__).resolve().parent.parent/'web/library-manifest.json').read_text(encoding='utf-8'))
+    if {r['sha256'] for r in records}!={r['sha256'] for r in manifest['documents']}:
+        raise ValueError('The library is not the fixed FaStudy corpus')
     if len(records)!=72 or len({r['sha256'] for r in records})!=72:
         raise ValueError('Expected exactly 72 unique PDF hashes')
     docs=[];files={}
@@ -36,7 +39,7 @@ def main():
             if route=='/library/catalog.json':return self.send_data(data,'application/json; charset=utf-8')
             match=re.fullmatch(r'/library/pdf/([a-f0-9]{64})\.pdf',route)
             if match and match[1] in files:return self.send_data(files[match[1]].read_bytes(),'application/pdf')
-            assets={'/':('index.html','text/html'),'/index.html':('index.html','text/html'),'/app.js':('app.js','text/javascript'),'/library.js':('library.js','text/javascript'),'/style.css':('style.css','text/css')}
+            assets={'/':('index.html','text/html'),'/index.html':('index.html','text/html'),'/app.js':('app.js','text/javascript'),'/library.js':('library.js','text/javascript'),'/style.css':('style.css','text/css'),'/library-manifest.json':('library-manifest.json','application/json')}
             if route in assets:
                 name,mime=assets[route];return self.send_data((web/name).read_bytes(),mime+'; charset=utf-8')
             self.send_error(404)

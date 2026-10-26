@@ -1,0 +1,510 @@
+{
+  "version": 1,
+  "expectedDocuments": 72,
+  "documents": [
+    {
+      "sha256": "13b8533ba5be6db625103685c0d7f983cf3600a67b474e429c5d34079897131f",
+      "titleProvisional": "1997-11_Fajie_v2019-07-07",
+      "pages": 128,
+      "originalSourceUrl": "https://es.falundafa.org/books/1997-11_Fajie_v2019-07-07.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "4841f79a5bca530881b9933b3583cfb5d7c6e090affadc3eec8f1afc48c6ddb8",
+      "titleProvisional": "20 años enseñando el Fa",
+      "pages": 16,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "027c7aff59fde020f3bda2cc37836b1d841cc02606476c47514f96662e0b7a38",
+      "titleProvisional": "australia",
+      "pages": 54,
+      "originalSourceUrl": "https://es.falundafa.org/docs/australia.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "28a0b036a425be9ae193a611ca95a38780e4bfd340b37e432b67f66f6ce19279",
+      "titleProvisional": "canada",
+      "pages": 43,
+      "originalSourceUrl": "https://es.falundafa.org/docs/canada.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "ea94637388d5e6e735728c3b3a7d40215ceacdae5ce9149dbacb8dc3bbd93c60",
+      "titleProvisional": "changchun",
+      "pages": 48,
+      "originalSourceUrl": "https://es.falundafa.org/docs/changchun.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "1e6cd3bb34c73babfb323b10f4bb9263f4ebeb05e3ecda23563db2988d49f9bf",
+      "titleProvisional": "chicago",
+      "pages": 36,
+      "originalSourceUrl": "https://es.falundafa.org/docs/chicago.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "c4b8532b9da727d4b25e39adf1257d56dc00a2ef567256a1c9c9528a3bce9035",
+      "titleProvisional": "daohang",
+      "pages": 30,
+      "originalSourceUrl": "https://es.falundafa.org/docs/daohang.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "d95199543b0987f44bc125dfee8589c21622ce1a56fa546c5f8eab94d64fd9c9",
+      "titleProvisional": "dymf",
+      "pages": 44,
+      "originalSourceUrl": "https://es.falundafa.org/docs/dymf.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "7f618dd3f75531e6081673cc41e9cff4873c6980e4beffab35effcd8a49e9e8e",
+      "titleProvisional": "eeuu_este",
+      "pages": 49,
+      "originalSourceUrl": "https://es.falundafa.org/docs/eeuu_este.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "3a94358ca7c0dfb080044ab1f2307ac0dcadbcb3c1f579c9b713ed8fae556b88",
+      "titleProvisional": "eeuu_oeste",
+      "pages": 58,
+      "originalSourceUrl": "https://es.falundafa.org/docs/eeuu_oeste.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "14cbe205c7852097b73c9123e9f3a52503389829a9fe886277436324ca608801",
+      "titleProvisional": "ef_eeuu",
+      "pages": 56,
+      "originalSourceUrl": "https://es.falundafa.org/docs/ef_eeuu.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "01a1e45b7617b5840bbebee623c5b2b589624546b9231e4c9ef4326386dd79a7",
+      "titleProvisional": "Enseñando el Fa en la Ceremonia de Fundación de la Asociación de Falun Dafa en Singapur",
+      "pages": 21,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "f5c559ad4d9627b77add3acbc4f911dd473e8faf3789a496b5f8913670a2804e",
+      "titleProvisional": "Enseñando el Fa en el Fahui de Nueva York de 2007",
+      "pages": 41,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "3a799d8f67db67b1c3e819bdc6103625d9cbf6fd4bed7702a2ba6e523714c65f",
+      "titleProvisional": "Enseñando el Fa en el Fahui de Nueva York",
+      "pages": 37,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "9380db9b01d0ebff1cea3571d75985357205db3b7b8b3722f4569847c7ba167e",
+      "titleProvisional": "Enseñando el Fa en el Fahui internacional de Gran Nueva York 2009",
+      "pages": 37,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "bf4cbca0804051a64fade0c759b5b7351475130c573f2d0bd9e9932097be56b8",
+      "titleProvisional": "Enseñando el Fa en el Fahui Internacional de Washington DC 2009",
+      "pages": 9,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "4b7320d8d07a3e91237600559b8c17c84162b8e9b5e54653e404ce30b8a1c975",
+      "titleProvisional": "Enseñando el Fa en el Fahui por el décimo aniversario del lanzamiento del sitio web Minghui",
+      "pages": 25,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "d58375b85c0a44db62f76321282825e2f6140e041e833dd1d5ca0b5656295794",
+      "titleProvisional": "Enseñando el Fa en la Capital de Estados Unidos",
+      "pages": 9,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "2d4f59d3a0028a5b87e1e6e29d7d7fff791433a31724091a356a3c4361fd15d8",
+      "titleProvisional": "Enseñando el Fa en la Conferencia de Nueva York 2008",
+      "pages": 8,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "bc0677e59fe18237a96c4782242faa673cef037752381c439482a7bb10b4b12a",
+      "titleProvisional": "Enseñando el Fa en la reunión de La Gran Época",
+      "pages": 10,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "1854c047bb2e91c534ad914b5af32710e77c1869f55c223b6597e0f833efa26d",
+      "titleProvisional": "Enseñando el Fa en la reunión de NTDTV",
+      "pages": 25,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "0fa6a0a84f295bb981e7a03f1df5f17922f4065a350ace9f0adec4c6cd7ab4af",
+      "titleProvisional": "Enseñando el Fa en Manhattan",
+      "pages": 15,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "19285b41ad3711783b03e7dcaf0db8b56b535d3ef2c14bffbc607768c3f7f243",
+      "titleProvisional": "europa",
+      "pages": 56,
+      "originalSourceUrl": "https://es.falundafa.org/docs/europa.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "940fb19c5a85a37bb83e5205bf18426469a7b413ea1478b0b79d7201a1e7c510",
+      "titleProvisional": "Exponiendo el Fa en Canadá, 2006",
+      "pages": 12,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "e551046db4c33d7c8dfc6c5767aab8759bc03d7190a281ce8c4fda1bc672f846",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Atlanta, 2003",
+      "pages": 44,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "6735b12b7ef6d40dd59ff33b3a235889aa9c3130db8fe527d55f186f9560a4f2",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Boston, 2002",
+      "pages": 8,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "a05516755dc96507d801e16e0f18176c6d4278b1e302e1c548f3cf1464eda6ef",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Canadá, 2005",
+      "pages": 10,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "1fae066b84e181c379b9f1f211c43153426c3c2a0dc7cbd0197406f56e149712",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Chicago, 2004",
+      "pages": 12,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "c64009a5da845abfa658e0fc1bf131b34e6a585a0bfe6f12bab412c863578582",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Florida, Estados Unidos",
+      "pages": 10,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "4798d45d20db565d04ebab3cfd4191b0507d8598c042ee653f330d697cbe8582",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Nueva York durante Fiestas Pascuas, 2004",
+      "pages": 7,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "ef300b95a6ac95dfd3e443cb959b3fe512f8fdad468f9713ede3662c99b29e41",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Vancouver, Canadá, 2003",
+      "pages": 18,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "8a953a7efaa6c939464c8839e43ae4b299962aed66b7df28ce9e2031a961d7dc",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Washington D.C., 2002",
+      "pages": 6,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "10ba43453d89c7bc1a8d46c1e49c86dd114b3b43dd670f15b9ea0060d54e4a6f",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Washington D.C., 2003",
+      "pages": 8,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "b94eeda5b9606b67f221246031b224706ca516b6d5e47a8869b27e5f26665ac9",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Washington D.C., 2004",
+      "pages": 5,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "7228736bda2663381272ebc0dc53e76f9163bff2ab72a1293e06046b67257dbc",
+      "titleProvisional": "Exponiendo el Fa en el Fahui del Medio Oeste de los Estados Unidos, 2003",
+      "pages": 14,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "0127e3d6335dca23d90dbfa2e2c2ef47ddee8b30a264273be8b6178fedc28eb7",
+      "titleProvisional": "Exponiendo el Fa en el Fahui del Oeste de los Estados Unidos, 2004",
+      "pages": 37,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "5e43a92f50184376ebbcfb75251a454daafdd25c2caaf28fc16c2e73cdcd2b9a",
+      "titleProvisional": "Exponiendo el Fa en el Fahui Internacional de Manhattan, 2005",
+      "pages": 10,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "cc30b965f736c863bb55f9919cd2b31ff788b712875baa390b6e42bd70e9fa09",
+      "titleProvisional": "Exponiendo el Fa en el Fahui Internacional de Nueva York, 2004",
+      "pages": 75,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "d7b0487840d2b445e209c172c08d905ea899b478779a16282f43dbb3c941d96f",
+      "titleProvisional": "Exponiendo el Fa en el Fahui Internacional del Oeste de los Estados Unidos",
+      "pages": 42,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "9d235d0cfbe652a94e09f14688374601f6acb275d1aa926a2cd6cffdc4838644",
+      "titleProvisional": "Exponiendo el Fa en la ciudad de Chicago",
+      "pages": 6,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "0250fe720e8aca8b8c26d3a8f9d8cd2e7bce7d6b5e4d0445ce25a043adceef3b",
+      "titleProvisional": "Exponiendo el Fa en la ciudad de Los Ángeles",
+      "pages": 58,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "30d4d77a6fc5877cb270bce64887c88fb8d54216f8849818da770b82a5e9ba97",
+      "titleProvisional": "Exponiendo el Fa en la conferencia de estudiantes de la región Asia-Pacífico",
+      "pages": 39,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "755bd9c6a8274081357dccfa7e474988fceae74d3d26c0de10d99f00db3c80db",
+      "titleProvisional": "Exponiendo el Fa en la reunión sobre la creación de las Bellas Artes",
+      "pages": 34,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "969e5e21d8e750417ff3fcd4be595eaba9747aa6a3d86c4c0bd377d7097ffa57",
+      "titleProvisional": "Exponiendo el Fa en la reunión sobre la creación de música",
+      "pages": 19,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "e4ba41ade0b7e9ff80d6a95d0c49acf18237e02d2deca2a97c6687dd31cbac4c",
+      "titleProvisional": "Exponiendo el Fa en San Francisco, 2005",
+      "pages": 54,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "f6990ce1ef8c3ea214eebf93153ceb15eceb93f61bce64551ccb146df0e72959",
+      "titleProvisional": "Exponiendo y enseñando el Fa en el Fahui del Área Metropolitana de Nueva York",
+      "pages": 47,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "ac33e74dfc4fe4689b5003ef8527ccca177eb876a22025ae421cf814f886d9c4",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de Filadelfia, Estados Unidos, 2002",
+      "pages": 12,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "f3c8c0614ecb5416fc08237bd3a5efd9b6dc38dd8b8ecbc4ab4bb6d9089d2035",
+      "titleProvisional": "Exponiendo el Fa en el Fahui de la capital de los Estados Unidos",
+      "pages": 9,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "b1422ba11674112f922cc74b086730e37fe3c5de02939d34695a75b5e3e25348",
+      "titleProvisional": "Exponiendo el Fa en la Conferencia Internacional de Intercambio de Experiencias en Beijing",
+      "pages": 17,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "09512564347b914abd3e48cf2fd5a84257035bac598c1309fac6397b60b07723",
+      "titleProvisional": "Hong-Yin-VI-es-202402",
+      "pages": 26,
+      "originalSourceUrl": "https://es.falundafa.org/books/HongYin/Hong-Yin-VI-es-202402.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "b6d29b80439fd3391711eef1c419433ef80a5b8225bb61054445d2b06da48ab2",
+      "titleProvisional": "Hong-Yin-VI-ES-revisado-julio-2026",
+      "pages": 26,
+      "originalSourceUrl": "https://es.falundafa.org/books/HongYin/Hong-Yin-VI-ES-revisado-julio-2026.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "778eca55d2c940e29923d0a85650b6b7226f20723636771c1892f6fa08bee433",
+      "titleProvisional": "Hong_Yin_III_v2025-06-25",
+      "pages": 54,
+      "originalSourceUrl": "https://es.falundafa.org/books/HongYin/HongYin3_2025-06-21/Hong_Yin_III_v2025-06-25.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "6a23bc6fd39f079b13897d71dfb835e2edbd284fb2bfbc775d336a255daa986b",
+      "titleProvisional": "HongYin4",
+      "pages": 61,
+      "originalSourceUrl": "https://es.falundafa.org/books/HongYin/HongYin4.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "7d4646d2bfc48b2fbd67a65ba064f622c69aa37d84815628666a43dab914a524",
+      "titleProvisional": "HongYinV",
+      "pages": 39,
+      "originalSourceUrl": "https://es.falundafa.org/books/HongYin/HongYinV.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "2acb8a080547d33e2ffb8cec981a0d1847ab7f9baa8487622184eedd1ae18afe",
+      "titleProvisional": "houston",
+      "pages": 54,
+      "originalSourceUrl": "https://es.falundafa.org/docs/houston.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "57a9367ba478362b4f00ffe9dd490937a6255b363a6fabb6c80fd54e51e31417",
+      "titleProvisional": "hy2_txt",
+      "pages": 27,
+      "originalSourceUrl": "https://es.falundafa.org/docs/hy2_txt.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "f816d76ccd882304eefb3b337fbad945e4e4ab933ed53aa4c3d928872316ffb2",
+      "titleProvisional": "hy_txt",
+      "pages": 22,
+      "originalSourceUrl": "https://es.falundafa.org/docs/hy_txt.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "55a338be217275cb9db991b06eead68b91f962c1640203f400ddf377829aea66",
+      "titleProvisional": "jjyz-2024-07-27",
+      "pages": 127,
+      "originalSourceUrl": "https://es.falundafa.org/books/escrituras_esenciales_para_mayor_avance_1/jjyz-2024-07-27.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "3c705376d6f5a50afbb1920f19fca18e16bdeb6a55b221ddf19cd60348d89670",
+      "titleProvisional": "jjyz2",
+      "pages": 66,
+      "originalSourceUrl": "https://es.falundafa.org/docs/jjyz2.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "754fcb035a298651622cbe680c8eeb9c71d195ec4f8d2285deeed280619d7c1e",
+      "titleProvisional": "jjyz3",
+      "pages": 51,
+      "originalSourceUrl": "https://es.falundafa.org/docs/jjyz3.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "094593d6db6accfac1a05b32cc7bc905801b499e44e1cf9e8d6c7552f5069645",
+      "titleProvisional": "la2003",
+      "pages": 67,
+      "originalSourceUrl": "https://es.falundafa.org/docs/la2003.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "71d3452453f933069f1941385017b2f56a22e7494626898d86bd5c49684001e8",
+      "titleProvisional": "Los Dafa dizi tienen que estudiar el Fa",
+      "pages": 18,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "dd332736433ba09e4e7e14624cf4a13fa2f5959ecf9952732beeb8f89abea765",
+      "titleProvisional": "norteamerica",
+      "pages": 49,
+      "originalSourceUrl": "https://es.falundafa.org/docs/norteamerica.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "c5f9f337aa17c680dd13faa7e287ea1739ca5d77142bbf23d2e9f5fa239840eb",
+      "titleProvisional": "nzelanda",
+      "pages": 44,
+      "originalSourceUrl": "https://es.falundafa.org/docs/nzelanda.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "8f03d5a0a8a12aa7af1d4da225e88703c11dc2376a558a5f24dc62aface42cb5",
+      "titleProvisional": "Primera Enseñanza del Fa en los Estados Unidos",
+      "pages": 23,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "40b4ccdb07a312aea5fa1f53bd09b7b5af554521439c517a86796ba2a50b52c5",
+      "titleProvisional": "Qué es un Dafa dizi",
+      "pages": 16,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "ae1fe7e22f40242e6273328d30b722210843e36a2cc39d72439a3670d040fdd7",
+      "titleProvisional": "Sean más diligentes",
+      "pages": 8,
+      "originalSourceUrl": null,
+      "textReviewed": false
+    },
+    {
+      "sha256": "2602fb0e83d903d91b4fca1ea61a8618e79044c58a4526e91197fca29ca0e402",
+      "titleProvisional": "sidney",
+      "pages": 47,
+      "originalSourceUrl": "https://es.falundafa.org/docs/sidney.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "f09bc395728f662e74e72aca8e263a545c9324059a8158bdf197daa6aa5fc8e3",
+      "titleProvisional": "singapur",
+      "pages": 49,
+      "originalSourceUrl": "https://es.falundafa.org/docs/singapur.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "40a9b730950319da0d929c5acae8637f32664c9d89a4aaa4d9eae85527b8534e",
+      "titleProvisional": "viaje_na",
+      "pages": 34,
+      "originalSourceUrl": "https://es.falundafa.org/docs/viaje_na.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "ccde1b176d4df4dc1aed99062c1b9452bd88f9b468b5b278c2b92d6e29151e3c",
+      "titleProvisional": "yj",
+      "pages": 77,
+      "originalSourceUrl": "https://es.falundafa.org/docs/yj.pdf",
+      "textReviewed": false
+    },
+    {
+      "sha256": "b55d42d45b7c25fdf0f27fec932f48488875f52b848a7995f9c75cb1ea3b7a27",
+      "titleProvisional": "zf2",
+      "pages": 45,
+      "originalSourceUrl": "https://es.falundafa.org/docs/zf2.pdf",
+      "textReviewed": false
+    }
+  ]
+}
