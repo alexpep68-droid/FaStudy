@@ -1,0 +1,9 @@
+{
+  "name": "fastudy",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {"node": ">=22"},
+  "scripts": {"build": "node scripts/build.mjs", "check": "node --check web/app.js && node --check web/library.js && node --check scripts/build.mjs", "test": "node --test tests/*.test.mjs"}
+}

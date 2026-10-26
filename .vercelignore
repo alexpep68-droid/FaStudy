@@ -1,0 +1,10 @@
+.git/
+private/
+library/
+catalogos/
+pdf/
+*.pdf
+*.log
+.env*
+tests/
+scripts/serve-local.py

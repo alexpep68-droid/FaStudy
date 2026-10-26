@@ -1,0 +1,20 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {mkdtemp,cp,readFile,readdir,mkdir,writeFile} from 'node:fs/promises';
+import {tmpdir} from 'node:os';
+import path from 'node:path';
+import {spawnSync} from 'node:child_process';
+test('public build contains no corpus and refuses to reuse stale output',async()=>{
+ const dir=await mkdtemp(path.join(tmpdir(),'fastudy-check-'));
+ await cp('web',path.join(dir,'web'),{recursive:true});
+ await mkdir(path.join(dir,'scripts'));
+ await cp('scripts/build.mjs',path.join(dir,'scripts/build.mjs'));
+ const first=spawnSync(process.execPath,['scripts/build.mjs'],{cwd:dir});
+ assert.equal(first.status,0,first.stderr.toString());
+ const status=JSON.parse(await readFile(path.join(dir,'dist/library/status.json'),'utf8'));
+ assert.equal(status.available,false);
+ assert.deepEqual(await readdir(path.join(dir,'dist/library')),['status.json']);
+ await writeFile(path.join(dir,'dist/library/private.txt'),'synthetic private data');
+ const second=spawnSync(process.execPath,['scripts/build.mjs'],{cwd:dir});
+ assert.notEqual(second.status,0);
+});

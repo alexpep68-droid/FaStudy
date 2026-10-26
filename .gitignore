@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
+private/
+library/
+catalogos/
+pdf/
+*.pdf
+*.log
+__pycache__/
+*.pyc
