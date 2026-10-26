@@ -7,6 +7,7 @@ en:{loading:'Loading the fixed 72-PDF library…',ready:'Fixed library: 72 PDFs.
 zh:{loading:'正在加载72份PDF资料库…',ready:'固定资料库：72份PDF。提取文本尚未核对。',unavailable:'此部署尚未启用72份PDF资料库。本地应用保留完整资料库。',error:'资料库加载失败，请刷新重试。'},
 pt:{loading:'Carregando a biblioteca fixa de 72 PDFs…',ready:'Biblioteca fixa: 72 PDFs. Texto extraído pendente de revisão.',unavailable:'A biblioteca ainda não está habilitada neste site. O aplicativo local mantém os 72 PDFs.',error:'Não foi possível carregar a biblioteca. Recarregue para tentar novamente.'},
 fr:{loading:'Chargement de la bibliothèque fixe de 72 PDF…',ready:'Bibliothèque fixe : 72 PDF. Le texte extrait reste à vérifier.',unavailable:'La bibliothèque n’est pas encore activée sur ce site. L’application locale conserve les 72 PDF.',error:'Impossible de charger la bibliothèque. Rechargez la page.'}};
+for(const lang of Object.keys(translations))translations[lang].empty=states[lang].unavailable;
 let loadState='loading';
 const originalLocalize=localize;
 function showState(){$('#library-state').textContent=states[$('#locale').value][loadState]}
