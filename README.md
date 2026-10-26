@@ -45,6 +45,16 @@ Para una futura biblioteca compartida autorizada, el administrador deberá publi
 
 ## Fidelidad y límites
 
+La ingestión nueva usa `scripts/ingest-pdf.py` (dependencias en `requirements-ingestion.txt`). Compara los caracteres extraídos con los glifos codificados en el PDF. Solo elimina un espacio horizontal insertado entre letras cuando coinciden todos los caracteres, no hay glifo de espacio, la posición indica continuidad y la tipografía y línea coinciden. Conserva espacios reales, saltos, guiones, letras y puntuación. Si el orden de caracteres difiere, no cambia esa página. No usa diccionarios ni reescribe palabras; las páginas siguen pendientes de cotejo humano.
+
+```
+python -m pip install -r requirements-ingestion.txt
+python scripts/ingest-pdf.py documento.pdf --title "Título confirmado" --language es --out private/borrador.json
+python -m unittest discover -s tests -p "test_*.py"
+```
+
+No exportar catálogos a `web/` ni a commits. El archivo de salida es un borrador privado, con fecha, conferencia y sección desconocidas hasta verificar sus datos.
+
 Los textos se extraen por página. Las citas conservan la cadena extraída, con elipses visibles para cortes y resaltado que no altera el texto. La extracción automática aún no es una cita validada: comparar contra el PDF. Las páginas vacías se omiten de búsqueda, manteniendo sus índices originales. Los títulos son provisionales cuando proceden del nombre de archivo. Fechas, conferencias y páginas impresas desconocidas se muestran como no disponibles.
 
 La interfaz es multilingüe; esto no implica que existan versiones de los 72 PDF en esos idiomas. El corpus inicial está etiquetado provisionalmente como español. No hay traducción automática, búsqueda semántica, generación de resúmenes ni respuestas doctrinales.
