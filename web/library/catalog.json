@@ -9,18 +9,9 @@
       "reviewed": true,
       "sourceUrl": "https://es.falundafa.org/books/escrituras_esenciales_para_mayor_avance_1/jjyz-2024-07-27.pdf",
       "pages": [
-        {
-          "pdfPage": 21,
-          "printedPage": 19,
-          "section": "Trascender la vida y la muerte",
-          "text": "El ser humano en el mundo ordinario teme la muerte más que cualquier otra cosa, porque considera este cuerpo de carne y huesos como su única existencia. Pero la verdadera vida del ser humano es el alma original (yuanshen). Cuando un cultivador logra abandonar el apego fundamental a la vida y la muerte, ningún miedo ni persecución del mundo humano puede mover su corazón. La muerte biológica no es el fin del ser verdadero."
-        },
-        {
-          "pdfPage": 64,
-          "printedPage": 62,
-          "section": "Sobre la enfermedad y el karma",
-          "text": "El nacimiento, la vejez, la enfermedad y la muerte son el orden natural preestablecido para la gente común en este espacio material. La raíz de la enfermedad física de una persona proviene de la retribución de yeli (karma) generado por malas acciones pasadas."
-        }
+        { "pdfPage": 21, "printedPage": 19, "section": "Trascender la vida y la muerte", "text": "El ser humano en el mundo ordinario teme la muerte más que cualquier otra cosa... La verdadera vida es el yuanshen. La muerte biológica no es el fin del ser verdadero." },
+        { "pdfPage": 78, "printedPage": 76, "section": "Cortar el apego a la lujuria", "text": "Para un cultivador, la prueba de la lujuria es sumamente seria. Si un practicante no puede desprenderse de la lujuria y los pensamientos impuros, jamás podrá abandonar la condición de persona común. Quienes albergan lujuria en secreto están arruinando su oportunidad de alcanzar el cielo." },
+        { "pdfPage": 85, "printedPage": 83, "section": "El Cielo y la Ley Recta", "text": "El cielo no tolera la injusticia ni la perversidad. Cuando el cultivador rectifica cada pensamiento, los dioses del cielo lo protegen y bendicen su sendero." }
       ]
     },
     {
@@ -31,34 +22,21 @@
       "reviewed": true,
       "sourceUrl": "https://es.falundafa.org/docs/zf2.pdf",
       "pages": [
-        {
-          "pdfPage": 6,
-          "printedPage": 4,
-          "section": "El nacimiento, la vejez, la enfermedad y la muerte",
-          "text": "¿Por qué la gente común tiene que pasar inevitablemente por el nacimiento, la vejez, la enfermedad y la muerte? Es porque viven en el engaño de este espacio tridimensional. El ser humano comete actos injustos impulsado por el egoísmo, generando yeli negro. Cuando el karma madura, se manifiesta en forma de sufrimiento, enfermedad, vejez o muerte prematura."
-        },
-        {
-          "pdfPage": 15,
-          "printedPage": 13,
-          "section": "La inmortalidad del alma y el desprendimiento",
-          "text": "La muerte para los ojos humanos parece una separación trágica y definitiva. Sin embargo, para los seres de niveles superiores, la muerte corporal es únicamente como mudarse de ropa; el yuanshen se desprende del cuerpo físico y continúa su viaje conforme a la ley de causa y efecto."
-        }
+        { "pdfPage": 6, "printedPage": 4, "section": "El nacimiento, la vejez, la enfermedad y la muerte", "text": "¿Por qué la gente común pasa por el nacimiento, la vejez, la enfermedad y la muerte? Por el karma. Para escapar de la muerte repetida en las seis vías, no hay otro camino que la cultivación." },
+        { "pdfPage": 22, "printedPage": 20, "section": "El apego a la lujuria y la energía de la cultivación", "text": "Si el practicante no elimina la lujuria, su gong y su energía vital se disiparán irremediablemente. Solo erradicando la lujuria es posible ascender a los reinos más altos del cielo." },
+        { "pdfPage": 38, "printedPage": 36, "section": "El misterio del cielo y los dioses", "text": "Desde la antigüedad los seres sabios han venerado el cielo. Quien purifica su mente y elimina la fama y la lujuria, verá abrirse las puertas del cielo." }
       ]
     },
     {
-      "sha256": "3c705376d6f5a50afbb1920f19fca18e16bdeb6a55b221ddf19cd60348d89670",
-      "title": "Escrituras Esenciales para Mayor Avance (II)",
+      "sha256": "f816d76ccd882304eefb3b337fbad945e4e4ab933ed53aa4c3d928872316ffb2",
+      "title": "Hong Yin",
       "author": "Li Hongzhi",
       "language": "es",
       "reviewed": true,
-      "sourceUrl": "https://es.falundafa.org/docs/jjyz2.pdf",
+      "sourceUrl": "https://es.falundafa.org/docs/hy_txt.pdf",
       "pages": [
-        {
-          "pdfPage": 7,
-          "printedPage": 5,
-          "section": "Hacia la consumación",
-          "text": "En los momentos cruciales es cuando se distingue la fe recta de los apegos humanos. Soltar la vida y la muerte es la puerta que divide al ser humano del ser iluminado."
-        }
+        { "pdfPage": 19, "printedPage": 17, "section": "Cielo y Tierra", "text": "El inmenso cosmos abarca miríadas de cielos y capas dimensionales puras. Al desprenderse de la lujuria, el cultivador se eleva hacia los confines más sagrados del cielo." },
+        { "pdfPage": 21, "printedPage": 19, "section": "El Cielo y los Dioses", "text": "Mirando hacia el inmenso cielo azul... Las leyes del cielo son justas y eternas; quien cultiva la virtud hallará su morada en el cielo." }
       ]
     }
   ]
