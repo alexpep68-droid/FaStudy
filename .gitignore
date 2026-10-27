@@ -5,7 +5,6 @@ dist/
 .env.*
 !.env.example
 private/
-library/
 catalogos/
 pdf/
 *.pdf
